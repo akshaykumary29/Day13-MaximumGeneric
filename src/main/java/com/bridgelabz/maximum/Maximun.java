@@ -23,6 +23,10 @@ public class Maximun<E extends Comparable> {
         System.out.println(max);
         return max;
     }
+
+    private static <E> void toPrint(E value1, E value2, E value3, E max) {
+        System.out.println("Maximum of "+value1+" , "+value2+" , "+value3+" is: " +max);
+    }
 }
 
 
