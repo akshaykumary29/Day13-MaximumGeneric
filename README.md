@@ -1,3 +1,1 @@
-Day 13- MaximumGeneric
-Find MaximumGenerics Problem
-Find Maximum Problem using Generics
+Day 13-Find Maximum Problem using Generics
